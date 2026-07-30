@@ -1,9 +1,9 @@
 -- 1. Manajemen Database
 SHOW DATABASES;
 
-CREATE DATABASE IF NOT EXISTS belajar_mysql;
+CREATE DATABASE IF NOT EXISTS porto_ananta;
 
-USE belajar_mysql;
+USE porto_ananta;
 
 -- 2. Membuat Tabel Sederhana (Barang)
 CREATE TABLE barang (
